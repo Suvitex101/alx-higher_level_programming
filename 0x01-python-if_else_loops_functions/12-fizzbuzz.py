@@ -11,4 +11,3 @@ def fizzbuzz():
             print("FizzBuzz ", end=" ")
         else:
             print("{:d}".format(i), end=" ")
-    print("$", end="")
