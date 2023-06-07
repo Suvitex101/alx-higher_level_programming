@@ -47,7 +47,7 @@ This repository contains solutions to various programming tasks and exercises in
              43 LOAD_FAST                2 (c)
              46 BINARY_SUBTRACT
              47 RETURN_VALUE
-
+```
 
 ## Getting Started
 
