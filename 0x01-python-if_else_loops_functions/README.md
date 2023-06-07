@@ -51,7 +51,7 @@ This repository contains solutions to various programming tasks and exercises in
 
 ## Getting Started
 
-To get started with any of the tasks, simply navigate to the corresponding task directory and follow the instructions provided in the README file.
+To get started with any of the tasks, simply navigate to the corresponding file
 
 ## License
 
