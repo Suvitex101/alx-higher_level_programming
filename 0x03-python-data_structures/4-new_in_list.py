@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+i#!/usr/bin/python3
 
 def new_in_list(my_list, idx, element):
     """function that replaces an element in a list
@@ -6,7 +6,7 @@ def new_in_list(my_list, idx, element):
     without modifying the original list (like in C)"""
 
     if idx < 0 or idx > len(my_list) - 1:
-        return my_list.copy()
+        return my_list
     else:
         new = my_list.copy()
         my_list[idx] = element
