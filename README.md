@@ -30,7 +30,9 @@ Feel free to explore the projects and choose the ones that interest you the most
 To get started with the projects in this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
+```shell
 git clone https://github.com/Suvitex101/alx-higher-level-programming.git
+```
 2. Navigate to the project directory:
 cd alx-higher-level-programming
 3. Read the project's README file for specific instructions and requirements.
