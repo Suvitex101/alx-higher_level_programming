@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-
 import sys
 from __future__ import print_function
-
 def safe_function(fct, *args):
     """function that executes a function safely."""
     try:
