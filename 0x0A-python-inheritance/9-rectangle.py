@@ -20,10 +20,11 @@ class Rectangle(BaseGeometry):
 
     def area(self):
         """Area of a rectangle"""
-        return self.__width * self.__height
+        a = self.__width * self.__height
+        return a
 
     def __str__(self):
         """str() representation of a rectangle"""
-        rect = "[" + str(self.__class__.__name__) * "]"
+        rect = "[" + str(self.__class__.__name__) * "] "
         rect += str(self.__width) + "/" + str(self.__height)
         return rect
